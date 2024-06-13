@@ -1,0 +1,6 @@
+framework module Pods_O2ChatWidget {
+  umbrella header "Pods-O2ChatWidget-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_O2ChatWidget_O2ChatWidgetUITests {
+  umbrella header "Pods-O2ChatWidget-O2ChatWidgetUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

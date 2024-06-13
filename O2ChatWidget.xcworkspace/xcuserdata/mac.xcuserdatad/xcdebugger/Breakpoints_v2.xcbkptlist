@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D4012A2A-9301-4A10-B8E9-8F4989403FEE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56D781B5-7388-442D-ADC1-1607C313E5B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "O2ChatWidget/ChatModule/ViewControllers/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2198"
+            endingLineNumber = "2198"
+            landmarkName = "getCustomerConversationByUUID(pageNumber:pageSize:conversationUId:customerId:email:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56D781B5-7388-442D-ADC1-1607C313E5B8 - c2ef163dc4124e46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "O2ChatWidget.ChatViewController.getCustomerConversationByUUID(pageNumber: Swift.Int, pageSize: Swift.Int, conversationUId: Swift.String, customerId: Swift.Int64, email: Swift.String) -&gt; ()"
+                  moduleName = "O2ChatWidget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/O2Chat/O2ChatWidget/O2ChatWidget/ChatModule/ViewControllers/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2198"
+                  endingLineNumber = "2198"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "56D781B5-7388-442D-ADC1-1607C313E5B8 - 638f1af6b6faeb2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (O2ChatWidget.WebResponseConversationByUUID) -&gt; () in O2ChatWidget.ChatViewController.getCustomerConversationByUUID(pageNumber: Swift.Int, pageSize: Swift.Int, conversationUId: Swift.String, customerId: Swift.Int64, email: Swift.String) -&gt; ()"
+                  moduleName = "O2ChatWidget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/O2Chat/O2ChatWidget/O2ChatWidget/ChatModule/ViewControllers/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2198"
+                  endingLineNumber = "2198"
+                  offsetFromSymbolStart = "493">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "862F483D-7938-46DE-BCF5-16F46CED0EC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "O2ChatWidget/ChatModule/ViewControllers/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2203"
+            endingLineNumber = "2203"
+            landmarkName = "getCustomerConversationByUUID(pageNumber:pageSize:conversationUId:customerId:email:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "862F483D-7938-46DE-BCF5-16F46CED0EC1 - 638f1af6b6faf4e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (O2ChatWidget.WebResponseConversationByUUID) -&gt; () in O2ChatWidget.ChatViewController.getCustomerConversationByUUID(pageNumber: Swift.Int, pageSize: Swift.Int, conversationUId: Swift.String, customerId: Swift.Int64, email: Swift.String) -&gt; ()"
+                  moduleName = "O2ChatWidget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/O2Chat/O2ChatWidget/O2ChatWidget/ChatModule/ViewControllers/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2204"
+                  endingLineNumber = "2204"
+                  offsetFromSymbolStart = "673">
+               </Location>
+               <Location
+                  uuid = "862F483D-7938-46DE-BCF5-16F46CED0EC1 - 638f1af6b6faf485"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (O2ChatWidget.WebResponseConversationByUUID) -&gt; () in O2ChatWidget.ChatViewController.getCustomerConversationByUUID(pageNumber: Swift.Int, pageSize: Swift.Int, conversationUId: Swift.String, customerId: Swift.Int64, email: Swift.String) -&gt; ()"
+                  moduleName = "O2ChatWidget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/O2Chat/O2ChatWidget/O2ChatWidget/ChatModule/ViewControllers/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2203"
+                  endingLineNumber = "2203"
+                  offsetFromSymbolStart = "673">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4352B934-3ED8-448D-97AD-E58D7B3B56B3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "O2ChatWidget/ChatModule/ViewControllers/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2009"
+            endingLineNumber = "2009"
+            landmarkName = "getAccessToken(isCalledFromReconnect:channelId:serverUrl:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89625FCF-D330-4DB6-ACC6-5BBDD6A8C7BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "O2ChatWidget/ChatModule/ViewControllers/ChatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2007"
+            endingLineNumber = "2007"
+            landmarkName = "getAccessToken(isCalledFromReconnect:channelId:serverUrl:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "89625FCF-D330-4DB6-ACC6-5BBDD6A8C7BA - 287fa69186daaefb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "O2ChatWidget.ChatViewController.getAccessToken(isCalledFromReconnect: Swift.Bool, channelId: Swift.String, serverUrl: Swift.String) -&gt; ()"
+                  moduleName = "O2ChatWidget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/O2Chat/O2ChatWidget/O2ChatWidget/ChatModule/ViewControllers/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2007"
+                  endingLineNumber = "2007"
+                  offsetFromSymbolStart = "99">
+               </Location>
+               <Location
+                  uuid = "89625FCF-D330-4DB6-ACC6-5BBDD6A8C7BA - 96fe694b5ebde4be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (O2ChatWidget.WebResponnse) -&gt; () in O2ChatWidget.ChatViewController.getAccessToken(isCalledFromReconnect: Swift.Bool, channelId: Swift.String, serverUrl: Swift.String) -&gt; ()"
+                  moduleName = "O2ChatWidget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/O2Chat/O2ChatWidget/O2ChatWidget/ChatModule/ViewControllers/ChatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2007"
+                  endingLineNumber = "2007"
+                  offsetFromSymbolStart = "134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D62DD1A9-778B-4CDE-9395-73CA042D0B6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "O2ChatWidget/Data/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "449"
+            endingLineNumber = "449"
+            landmarkName = "getAccessTokenByChannelId(channelId:onSuccess:onFailure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61A577DA-8642-4408-B5BD-86FC315A1BD6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "O2ChatWidget/Data/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "465"
+            endingLineNumber = "465"
+            landmarkName = "getAccessTokenByChannelId(channelId:onSuccess:onFailure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D986068-DADD-42FF-91F5-0D001EC79791"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "O2ChatWidget/Data/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "527"
+            endingLineNumber = "527"
+            landmarkName = "getTopicByEmail(email:onSuccess:onFailure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
